@@ -1,4 +1,4 @@
-## Add your Documantion here the description can be found on [TUWEL](# Project Name
+# WeKnowWhatYouWant - ACM Recommender Systems 2024 Challenge
 
 ## Authors:
 - [Stefan Hamm](https://www.linkedin.com/in/stefan-hamm-6631a01b9/)  
@@ -7,7 +7,31 @@
 - [Wojciech Michaluk](https://www.linkedin.com/in/wojciech-michaluk-a09465269/)
 - [Marko Gugleta](https://www.linkedin.com/in/marko-gugleta-73610b20b/)
 
-## Overview
+WeKnowWhatYouWant presents our participation in the **ACM RecSys 2024 Challenge** using the **Ekstra Bladet News Recommendation Dataset (EB-NeRD)**. This dataset, gathered from the Danish news site *Ekstra Bladet*, contains user interaction logs over six weeks and includes comprehensive article metadata.
+
+## Project Overview
+
+Our project employs two state-of-the-art recommendation algorithms:  
+- **Neural Recommendation with Personalized Attention (NPA)**  
+- **Neural Recommendation with Long- and Short-term User Representations (LSTUR)**  
+
+We aim to enhance these models to predict user preferences effectively.
+
+## Evaluation Metrics
+
+To ensure the quality and relevance of our solutions, we evaluate the models using stringent metrics:  
+- **AUC (Area Under Curve)**  
+- **MRR (Mean Reciprocal Rank)**  
+- **nDCG@K (Normalized Discounted Cumulative Gain)**  
+
+## Goals and Deliverables
+
+- Benchmark results will be submitted to the RecSys Challenge leaderboard.  
+- Comprehensive documentation and reproducibility are ensured through detailed coding and reporting practices.
+
+--- 
+
+## Code Overview
 This project involves downloading datasets and utilizing a variety of machine learning and data processing libraries to work with these datasets. The project is split into multiple components, including downloading files, processing data, and building models.
 
 ## File Descriptions
