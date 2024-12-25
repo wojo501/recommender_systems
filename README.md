@@ -1,4 +1,5 @@
 # WeKnowWhatYouWant - ACM Recommender Systems 2024 Challenge
+Recommender Systems - Vienna University of Technology 2024S subject.
 [Final Report in PDF](./final_report.pdf)
 
 ## Authors:
