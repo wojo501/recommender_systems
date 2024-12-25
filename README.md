@@ -1,5 +1,12 @@
 ## Add your Documantion here the description can be found on [TUWEL](# Project Name
 
+## Authors:
+- [Stefan Hamm](https://www.linkedin.com/in/stefan-hamm-6631a01b9/)  
+- [Petar Soric]()  
+- [Eva Pleše](https://www.linkedin.com/in/eva-plese-b69316235/)
+- [Wojciech Michaluk](https://www.linkedin.com/in/wojciech-michaluk-a09465269/)
+- [Marko Gugleta](https://www.linkedin.com/in/marko-gugleta-73610b20b/)
+
 ## Overview
 This project involves downloading datasets and utilizing a variety of machine learning and data processing libraries to work with these datasets. The project is split into multiple components, including downloading files, processing data, and building models.
 
