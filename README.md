@@ -1,4 +1,5 @@
 # WeKnowWhatYouWant - ACM Recommender Systems 2024 Challenge
+[Final Report in PDF](./final_report.pdf)
 
 ## Authors:
 - [Stefan Hamm](https://www.linkedin.com/in/stefan-hamm-6631a01b9/)  
