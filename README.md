@@ -1,5 +1,5 @@
 # WeKnowWhatYouWant - ACM Recommender Systems 2024 Challenge
-Recommender Systems - Vienna University of Technology 2024S subject.
+Recommender Systems - Vienna University of Technology <br>
 [Final Report in PDF](./final_report.pdf)
 
 ## Authors:
@@ -56,4 +56,5 @@ Process: The algorithm looks at the original data, identifies the main features,
 
 ### `requirements.txt`
 This file lists the dependencies required for the project. It includes specific versions of libraries to ensure compatibility.
+
 
